@@ -175,7 +175,7 @@ Feel free to submit issues and enhancement requests!
 
 This project is for educational purposes. Feel free to use and modify as needed.
 
-##Extending the Project
+## Extending the Project
 
 - Add sorting and filtering options to the browse command
 - Add pagination to the browse command
